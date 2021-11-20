@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on a project which can help me to polish my skills
-- 📫 How to reach me instagram(_aakashsharma)
+- 📫 DM me on instagram(@_aakashsharma)
 
 <!---
 dahighsky/dahighsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
